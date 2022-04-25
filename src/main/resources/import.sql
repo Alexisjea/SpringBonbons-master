@@ -1,0 +1,2 @@
+insert into ROLE (NOM) values ( 'admin' );
+insert into UTILISATEUR (EMAIL, MDP, NOM, PRENOM, ROLE_ID) values ( 'timomoulin@msn.com','{bcrypt}$2a$10$id50JbO3K6L6GikHr1vqMOxJS7cTtNovRY1aCk10n6rnFhZzAIhaa','moulin','timothée',1 );','timothée',1 );
